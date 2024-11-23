@@ -1,5 +1,4 @@
-# projet-tiohtiake
-Projet Tiohtià:ke
+# Projet Tiohtià:ke
 
 Bibliographie du projet
 
