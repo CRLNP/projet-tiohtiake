@@ -75,4 +75,16 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+/*change buttons on homepage*/
+.btn-outline-dark {
+    background-color: transparent; 
+    color: #761F12);
+    border: 1px solid;
+    border-color: #761F12;
+}
 
+.btn-outline-dark:hover {
+    background-color: #761F12;
+    border-color: #761F12;
+    color: white;
+}
